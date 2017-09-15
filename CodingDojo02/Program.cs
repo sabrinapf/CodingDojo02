@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+ * Coding Dojo 02
+ * Sabrina Pfeiffer
+ * wi16b012
+ */ 
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
